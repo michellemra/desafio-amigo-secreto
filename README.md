@@ -9,9 +9,6 @@ O objetivo deste projeto é criar uma aplicação web interativa que facilite a 
 
 Funcionalidades
 
-![image](https://github.com/user-attachments/assets/81476be9-343f-4bcc-8968-21b861197636)
-
-
 A aplicação oferece as seguintes funcionalidades:
 
 Adicionar Nomes :O usuário pode inserir o nome de um amigo em um campo de texto e clicar no botão "Adicionar" para incluí-lo na lista.
