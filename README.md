@@ -24,19 +24,17 @@ Sorteio Aleatório: Ao clicar no botão "Sortear Amigo", o sistema seleciona um 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Como Usar
+![image](https://github.com/user-attachments/assets/81476be9-343f-4bcc-8968-21b861197636)
 
-1 - Clonar este repositório:
-git clone https://github.com/seu-usuario/amigo-secreto.git
+1 - Insira o nome de um amigo no campo de texto.
 
-2- Insira o nome de um amigo no campo de texto.
+2- Clique no botão "Adicionar" para incluir o nome na lista.
 
-3- Clique no botão "Adicionar" para incluir o nome na lista.
+3- Repita o processo para adicionar quantos nomes desejar.
 
-4- Repita o processo para adicionar quantos nomes desejar.
+4- Clique no botão "Sortear Amigo" para realizar o sorteio.
 
-5- Clique no botão "Sortear Amigo" para realizar o sorteio.
-
-6- O nome do amigo secreto será exibido na tela.
+5- O nome do amigo secreto será exibido na tela.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
